@@ -24,33 +24,9 @@ font-style: bold;
 }
 @font-face {
 font-family: 'CMU Typewriter Text';
-src: url('https://github.com/ceh-product/cehsites/raw/main/AnyConv.com__CMU_Typewriter_Text_BoldItalic.woff') format('woff');
-font-weight: 600;
-font-style: bold, italic;
-}
-@font-face {
-font-family: 'CMU Typewriter Text';
-src: url('https://github.com/ceh-product/cehsites/raw/main/AnyConv.com__CMU_Typewriter_Text_Italic.woff') format('woff');
-font-weight: 400;
-font-style: italic;
-}
-@font-face {
-font-family: 'CMU Typewriter Text';
 src: url('https://github.com/ceh-product/cehsites/raw/main/AnyConv.com__CMU_Typewriter_Text_Light.woff') format('woff');
 font-weight: 300;
 font-style: normal;
-}
-@font-face {
-font-family: 'CMU Typewriter Text';
-src: url('https://github.com/ceh-product/cehsites/raw/main/AnyConv.com__CMU_Typewriter_Text_LightOblique.woff') format('woff');
-font-weight: 200;
-font-style: normal, oblique;
-}
-@font-face {
-font-family: 'CMU Typewriter Text';
-src: url('https://github.com/ceh-product/cehsites/raw/main/AnyConv.com__CMU_Typewriter_Text_Oblique.woff') format('woff');
-font-weight: 400;
-font-style: medium, oblique;
 }
 @font-face {
 font-family: 'CMU Typewriter Text';
